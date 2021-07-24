@@ -6,11 +6,12 @@
 	"cover": "https://storia.takeshobo.co.jp/manga/symphogear/main.jpg",
 	"chapters": {
 		"1": {
-			"title": "Episode 1",
 			"groups": {
 				"YameteTomete": "/proxy/api/imgur/chapter/eYPz9ep/"
 			},
-		"last_updated": "1627124400"
-		},
+			"last_updated": "1627124400",
+			"title": "Episode 1",
+			"volume": "1"
+		}
 	}
 }

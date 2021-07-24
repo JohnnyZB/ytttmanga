@@ -1,0 +1,16 @@
+{
+	"title": "Feast of the Valkyries: ~Cooking with Shirabe~",
+	"description": "An official spinoff of the Senki Zesshou Symphogear series! A gourmet ballad, fresh from the kitchen.",
+	"artist": "Tutanoha",
+	"author": "Agematsu Noriyasu, Kaneko Akifumi",
+	"cover": "https://storia.takeshobo.co.jp/manga/symphogear/main.jpg",
+	"chapters": {
+		"1": {
+			"title": "Episode 1",
+			"groups": {
+				"YameteTomete": "/proxy/api/imgur/chapter/yF5JFln/"
+			},
+		"last_updated": "1627124400"
+		},
+	}
+}

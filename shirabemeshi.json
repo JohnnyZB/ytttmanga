@@ -3,28 +3,31 @@
 	"description": "An official spinoff of the Senki Zesshou Symphogear series! A gourmet ballad, fresh from the kitchen.",
 	"artist": "Tutanoha",
 	"author": "Agematsu Noriyasu, Kaneko Akifumi",
-	"cover": "https://storia.takeshobo.co.jp/manga/symphogear/main.jpg",
+	"cover": "https://storia.takeshobo.co.jp/img/comics_thumb/symphogear_v001.jpg",
 	"chapters": {
 		"1": {
 			"groups": {
 				"YameteTomete": "/proxy/api/imgur/chapter/eYPz9ep/"
 			},
 			"last_updated": "1627124400",
-			"title": "Episode 1"
+			"title": "Episode 1",
+			"volume": "1"
 		},
 		"2": {
 			"groups": {
 				"YameteTomete": "/proxy/api/imgur/chapter/aZpov1u/"
 			},
 			"last_updated": "1630601100",
-			"title": "Episode 2"
+			"title": "Episode 2",
+			"volume": "1"
 		},
 		"3": {
 			"groups": {
 				"YameteTomete": "/proxy/api/imgur/chapter/k6vIRgw/"
 			},
 			"last_updated": "1638688497",
-			"title": "Episode 3"
+			"title": "Episode 3",
+			"volume": "1"
 		}
 	}
 }
